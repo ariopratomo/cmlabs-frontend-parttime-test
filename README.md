@@ -2,6 +2,8 @@
 
 Pre-assessment FE-PT-02-2 — dibangun dengan Next.js App Router, TypeScript, dan Tailwind CSS v4.
 
+**Live Demo:** https://cmlabs-themeal.vercel.app
+
 ## Fitur
 
 **Halaman wajib:**

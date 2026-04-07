@@ -45,6 +45,7 @@ export function IngredientsExplorer({ ingredients }: IngredientsExplorerProps) {
 
   // Reset to page 1 whenever filter/search changes
   useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     setPage(1);
   }, [query, activeLetter]);
 
